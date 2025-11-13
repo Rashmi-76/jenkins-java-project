@@ -13,7 +13,7 @@
     </nav>
     <div class="background-image"></div>
     <div class="form-wrapper">
-      <h2> ARTHAM INDHA MASTERUUUU awss workshop.</h2>
+      <h2> ARTHAM INDHA MASTERUUUU aws workshop going on .</h2>
       <form action="#">
         <div class="form-control">
           <input type="text" required />
